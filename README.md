@@ -4,4 +4,4 @@ Apesar de seguir os passos do professor usando o site Polygon e Uptick, não con
 
 Pesquisando, encontrei o site [launchpad.heymint.xyz ](https:launchpad.heymint.xyz/)
 
-## Visto que não consigo fazer o deploy, deixei um print da pagina de meu NFT. 
+## Visto que não consigo fazer o deploy, deixei um print da página de meu NFT. 
